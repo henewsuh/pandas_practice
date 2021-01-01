@@ -7,3 +7,5 @@
 4. loc
 5. 특정 값 탐색
 6. iterrows()
+
+샘플데이터: https://www.data.go.kr/data/15071621/fileData.do
